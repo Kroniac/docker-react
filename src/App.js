@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hellooo there Docer!</h1>
+      <h1>Hellooo there Docker!</h1>
     </div>
   );
 }
